@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+得意な順
+クラウドインフラ > バックエンド開発 > フロント開発
+
+
+
+
 <!--
 **nnashiki/nnashiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
