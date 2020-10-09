@@ -6,7 +6,7 @@
 ![](slide-languages-tags.png)
 
 
-# おすすめrepo
+# おすすめrepo :rainbow:
 
 - Pythonパッケージをpyplに登録してみた
     - https://github.com/nnashiki/play_py37_package
