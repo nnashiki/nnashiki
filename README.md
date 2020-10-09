@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 - 得意な順
@@ -5,6 +6,8 @@
 
 ![](slide-languages-tags.png)
 
+- gist
+   - https://gist.github.com/nnashiki
 
 # おすすめrepo :rainbow:
 
