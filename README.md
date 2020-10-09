@@ -10,6 +10,8 @@
 
 - Pythonパッケージをpyplに登録してみた
     - https://github.com/nnashiki/play_py37_package
+- AirflowをGCPで運用する構成
+    - https://github.com/nnashiki/airflow_on_gcp_freeze1
 
 # 直近のプライベートでの勉強、開発 (6 ヶ月くらい)
 
