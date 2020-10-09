@@ -5,6 +5,12 @@
 
 ![](slide-languages-tags.png)
 
+
+# おすすめrepo
+
+- Pythonパッケージをpyplに登録してみた
+    - https://github.com/nnashiki/play_py37_package
+
 # 直近のプライベートでの勉強、開発 (6 ヶ月くらい)
 
 - Airflow を GCP 上で構成する
