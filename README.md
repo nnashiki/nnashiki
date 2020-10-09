@@ -8,7 +8,7 @@
 
 # おすすめrepo :rainbow:
 
-- Pythonパッケージをpyplに登録してみた
+- PythonパッケージをPyPIに登録してみた
     - https://github.com/nnashiki/play_py37_package
 - AirflowをGCPで運用する構成
     - https://github.com/nnashiki/airflow_on_gcp_freeze1
