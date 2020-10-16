@@ -17,6 +17,8 @@
     - https://github.com/nnashiki/airflow_on_gcp_freeze1
 - Pandoc + eisvogel で日本語を含む Markdown から PDF 出力できる Dokcer コンテナ
     - https://github.com/nnashiki/pandoc-eisvogel-ja
+- PlantUML の Docker コンテナ実行環境
+    - https://github.com/nnashiki/plantuml-docker
 
 # 直近のプライベートでの勉強、開発 (6 ヶ月くらい)
 
