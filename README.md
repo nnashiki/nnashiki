@@ -15,6 +15,8 @@
     - https://github.com/nnashiki/play_py37_package
 - AirflowをGCPで運用する構成
     - https://github.com/nnashiki/airflow_on_gcp_freeze1
+- Pandoc + eisvogel で日本語を含む Markdown から PDF 出力できる Dokcer コンテナ
+    - https://github.com/nnashiki/pandoc-eisvogel-ja
 
 # 直近のプライベートでの勉強、開発 (6 ヶ月くらい)
 
