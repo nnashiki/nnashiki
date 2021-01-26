@@ -11,6 +11,8 @@
 
 # おすすめrepo :rainbow:
 
+- Pthon製CLIをパッケージングしてみた
+    - https://github.com/nnashiki/wordcloud-cli
 - PythonパッケージをPyPIに登録してみた
     - https://github.com/nnashiki/play_py37_package
 - AirflowをGCPで運用する構成
