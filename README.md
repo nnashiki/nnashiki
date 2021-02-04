@@ -11,6 +11,8 @@
 
 # おすすめrepo :rainbow:
 
+- 会社でPythonを教えています
+    - https://github.com/nnashiki/python_workshop
 - Pthon製CLIをパッケージングしてみた
     - https://github.com/nnashiki/wordcloud-cli
 - PythonパッケージをPyPIに登録してみた
