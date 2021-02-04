@@ -4,10 +4,14 @@
 - 得意な順
   - クラウドインフラ > バックエンド開発 > フロント開発
 
-![](slide-languages-tags.png)
-
+- Qiita
+   - https://qiita.com/nassy20
 - gist
    - https://gist.github.com/nnashiki
+
+![](slide-languages-tags.png)
+
+
 
 # おすすめrepo :rainbow:
 
