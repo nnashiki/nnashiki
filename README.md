@@ -2,15 +2,13 @@
 ### Hi there 👋
 
 - 得意な順
-  - クラウドインフラ > バックエンド開発 > フロント開発
-
+  - クラウドインフラ > バックエンド開発 > フロント開発 > 機械学習
 - Qiita
    - https://qiita.com/nassy20
-- gist
-   - https://gist.github.com/nnashiki
+- 運営サービス
+   - https://media2txt.com/
 
 ![](slide-languages-tags.png)
-
 
 
 # おすすめrepo :rainbow:
@@ -28,17 +26,19 @@
 - PlantUML の Docker コンテナ実行環境
     - https://github.com/nnashiki/plantuml-docker
 
+
 # 技術
 
 ## 技術スタック一覧
 
-- Python3, js(ES6)
-- pytest
+- Python3, FastAPI, Django
+- js(ES6), TypeScript
 - GCP(GCE, BigQuery, AppEngine, AutoMLTables, Composer(Airflow), Dataflow, モニタリング, pubsub, Vision)
+- Azure(ARMTemplates, VM, Vnet,  WAF)
 - AWS(S3)
-- CI(CircleCI, Cloud build, GitHub Actions)
+- CI(CircleCI, Cloud build, GitHub Actions, Azure PipeLines)
 - インフラ
-  - Docker, Docker Compose, k8s, Packer, Terraform
+  - Docker, Docker Compose, Packer, Terraform, Ansible
 - データ
   - Airflow, Embulk
 - Jupyter
@@ -46,39 +46,28 @@
 
 # 得意な事 
 
-- スケールアウトを考慮したシステム開発設計ができること
+- webアプリケーション開発
 - Packer, Terraform, Docker を活用してコード化されたインフラ構築ができる
+- 運用・監視設計
+- スケールアウトを考慮したシステム開発設計ができること
 - サーバーリソースを効率的に使う設計ができる
-- 得意言語(Python) 以外でも Docker コンテナを作ってツール活用できる(Java,Haskell,Node.js)
+- 得意言語(Python) 以外でも Docker コンテナを作ってツール活用できる(Java, Haskell)
 - 複雑な SQL、効率的な SQL が書ける
 - 担当者がいなくなり保守不能になったサービスを何度も立て直してきた
 
-# 得意ではないができること
-
-- JS の読み書きとフロントエンドのテスト
-- 小規模なアプリケーションサーバー開発
+# 詳しくはないがやっていること
+- フロントエンド開発
+- DDD・クリーンアーキテクチャー
 - データサイエンティストに指示をもらいながら、データ加工・モデルの作成・モデルの評価・実験デザインができること
-- テストコードの作成(モッキングなど)
-- DDD
 
 # 苦手なこと
 
 - 機械学習や統計知識はあまりないです
-- Pandas
 
 # やった事が無いこと
 
 - 大規模なアプリケーションサーバー開発
-- 業務でのシングルページアプリケーション開発
 
-# 2020/01 - 06
-- Airflow を GCP 上で構成する
-- OCR アプリ開発
-- クロスブラウザテストツールのテスト
-- qwicklab を使用した GCP ハンズオン
-- 食品表示の写真から甲殻類を含む場合に警告するアプリ開発
-- りあくと! を読んでサンプル実装
-- js Primer チュートリアル実装
 
 
 <!--
