@@ -7,6 +7,7 @@
    - https://qiita.com/nassy20
 - 運営サービス
    - https://media2txt.com/
+   - https://www.youtube.com/channel/UCbtVcx4J0bA09uK8ls7EiJg
 
 ![](slide-languages-tags.png)
 
