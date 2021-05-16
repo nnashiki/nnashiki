@@ -33,9 +33,9 @@
 ## 技術スタック一覧
 
 - Python3, FastAPI, Django
-- js(ES6), TypeScript
-- GCP(GCE, BigQuery, AppEngine, AutoMLTables, Composer(Airflow), Dataflow, モニタリング, pubsub, Vision)
-- Azure(ARMTemplates, VM, Vnet,  WAF)
+- js(ES6), TypeScript ,node.js
+- GCP(GCE, BigQuery, AppEngine,Cloud run, AutoMLTables, Composer(Airflow), Dataflow, モニタリング, pubsub, Vision)
+- Azure(ARMTemplates, VM, Vnet, WAF)
 - AWS(S3)
 - CI(CircleCI, Cloud build, GitHub Actions, Azure PipeLines)
 - インフラ
@@ -47,7 +47,9 @@
 
 # 得意な事 
 
-- webアプリケーション開発
+- クラウドインフラ構築
+- 非機能要件設計
+- webアプリケーションバックエンド開発
 - Packer, Terraform, Docker を活用してコード化されたインフラ構築ができる
 - 運用・監視設計
 - スケールアウトを考慮したシステム開発設計ができること
@@ -57,7 +59,9 @@
 - 担当者がいなくなり保守不能になったサービスを何度も立て直してきた
 
 # 詳しくはないがやっていること
+
 - フロントエンド開発
+- クラウドインフラ・アプリケーションのセキュリティ施策
 - DDD・クリーンアーキテクチャー
 - データサイエンティストに指示をもらいながら、データ加工・モデルの作成・モデルの評価・実験デザインができること
 
