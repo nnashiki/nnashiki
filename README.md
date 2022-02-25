@@ -3,24 +3,27 @@
 
 - 得意な順
   - クラウドインフラ > バックエンド開発 > フロント開発 > 機械学習
-- Qiita
+- 技術アウトプット
    - https://qiita.com/nassy20
+   - https://zenn.dev/nassy
 - 運営サービス
    - https://media2txt.com/
    - https://www.youtube.com/channel/UCbtVcx4J0bA09uK8ls7EiJg
+- パブリッシュしたライブラリ
+   - https://qiita.com/nassy20/items/370c8163205b8351f636
 
 ![](slide-languages-tags.png)
 
 
 # おすすめrepo :rainbow:
 
-- 会社でPythonを教えています
+- 会社で Python を教えています
     - https://github.com/nnashiki/python_workshop
-- Python製CLIをパッケージングしてみた
+- Python 製 CLI をパッケージングしてみた
     - https://github.com/nnashiki/wordcloud-cli
 - PythonパッケージをPyPIに登録してみた
     - https://github.com/nnashiki/play_py37_package
-- AirflowをGCPで運用する構成
+- Airflow を GCP で運用する構成
     - https://github.com/nnashiki/airflow_on_gcp_freeze1
 - Pandoc + eisvogel で日本語を含む Markdown から PDF 出力できる Dokcer コンテナ
     - https://github.com/nnashiki/pandoc-eisvogel-ja
@@ -33,7 +36,7 @@
 ## 技術スタック一覧
 
 - Python3, FastAPI, Django
-- js(ES6), TypeScript ,node.js
+- js(ES6), TypeScript ,Node.js
 - GCP(GCE, BigQuery, AppEngine,Cloud run, AutoMLTables, Composer(Airflow), Dataflow, モニタリング, pubsub, Vision)
 - Azure(ARMTemplates, VM, Vnet, WAF)
 - AWS(S3)
