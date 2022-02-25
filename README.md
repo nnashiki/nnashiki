@@ -33,20 +33,24 @@
 
 # 技術
 
-## 技術スタック一覧
-
-- Python3, FastAPI, Django
-- js(ES6), TypeScript ,Node.js
-- GCP(GCE, BigQuery, AppEngine,Cloud run, AutoMLTables, Composer(Airflow), Dataflow, モニタリング, pubsub, Vision)
-- Azure(ARMTemplates, VM, Vnet, WAF)
+## 技術スタック(業務で扱った事があるもの)
+- 言語フレームワーク
+  - Python3 (FastAPI, Django)
+  - js(ES6), TypeScript ,Node.js, Vue.js
+- GCP
+  - GCE, BigQuery, AppEngine,Cloud run, AutoMLTables, Composer(Airflow), Dataflow, モニタリング, pubsub, Vision
+- Azure
+  - ARMTemplates, VM, Vnet, WAF
 - AWS(S3)
-- CI(CircleCI, Cloud build, GitHub Actions, Azure PipeLines)
+- CI
+  - CircleCI, Cloud build, GitHub Actions, Azure PipeLines
 - インフラ
   - Docker, Docker Compose, Packer, Terraform, Ansible
 - データ
   - Airflow, Embulk
 - Jupyter
-- PlantUML
+- ドキュメンティング
+  - PlantUML, Marp
 
 # 得意な事 
 
