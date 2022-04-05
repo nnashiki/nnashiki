@@ -11,6 +11,7 @@
    - https://www.youtube.com/channel/UCbtVcx4J0bA09uK8ls7EiJg
 - パブリッシュしたライブラリ
    - https://qiita.com/nassy20/items/370c8163205b8351f636
+   - https://pypi.org/user/nassy/
 
 ![](slide-languages-tags.png)
 
