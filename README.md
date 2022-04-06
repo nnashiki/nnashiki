@@ -17,20 +17,22 @@
 
 
 # おすすめrepo :rainbow:
-
-- 会社で Python を教えています
-    - https://github.com/nnashiki/python_workshop
-- Python 製 CLI をパッケージングしてみた
-    - https://github.com/nnashiki/wordcloud-cli
-- PythonパッケージをPyPIに登録してみた
-    - https://github.com/nnashiki/play_py37_package
+    
+- 業務改善
+    - backlog.com の課題登録 Webhook を用いて Azure Devps に登録する
+        - https://github.com/nnashiki/bklg2devops-func
+    - yaml に記載したテストスイートの実行タスクを azure devops に起票できるツール
+        - https://github.com/nnashiki/yaml2devops-cli
 - Airflow を GCP で運用する構成
     - https://github.com/nnashiki/airflow_on_gcp_freeze1
-- Pandoc + eisvogel で日本語を含む Markdown から PDF 出力できる Dokcer コンテナ
-    - https://github.com/nnashiki/pandoc-eisvogel-ja
-- PlantUML の Docker コンテナ実行環境
-    - https://github.com/nnashiki/plantuml-docker
-
+- ドキュメントインテグレーション
+    - PlantUML の Docker コンテナ実行環境
+        - https://github.com/nnashiki/plantuml-docker
+    - Pandoc + eisvogel で日本語を含む Markdown から PDF 出力できる Dokcer コンテナ
+        - https://github.com/nnashiki/pandoc-eisvogel-ja
+- 人に Python を教える時に作ったやつ
+    - https://github.com/nnashiki/python_workshop
+    - https://github.com/nnashiki/wordcloud-cli
 
 # 技術
 
