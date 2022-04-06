@@ -23,6 +23,8 @@
         - https://github.com/nnashiki/bklg2devops-func
     - yaml に記載したテストスイートの実行タスクを azure devops に起票できるツール
         - https://github.com/nnashiki/yaml2devops-cli
+    - azure blob を regex 指定で操作するCLIツール
+        - https://github.com/nnashiki/azblob-regex-cli
 - Airflow を GCP で運用する構成
     - https://github.com/nnashiki/airflow_on_gcp_freeze1
 - ドキュメントインテグレーション
