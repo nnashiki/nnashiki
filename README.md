@@ -45,14 +45,14 @@
 
 # 技術
 
-## 技術スタック(業務で扱った事があるもの)
+## 技術スタック(業務で開発で経験があるもの)
 - 言語フレームワーク
   - Python3 (FastAPI, Django)
-  - js(ES6), TypeScript ,Node.js, Vue.js
+  - TypeScript, js(ES6), Node.js, Vue.js
 - GCP
-  - GCE, BigQuery, AppEngine,Cloud run, AutoMLTables, Composer(Airflow), Dataflow, モニタリング, pubsub, Vision
+  - GCE, BigQuery, AppEngine, Cloud run, AutoMLTables, Composer(Airflow), Dataflow, モニタリング, pubsub, Vision
 - Azure
-  - ARMTemplates, VM, Vnet, WAF
+  - CognitiveSearch (全文検索エンジン), AppService, Functions, ARMTemplates, VM, Vnet, WAF
 - AWS(S3)
 - CI
   - CircleCI, Cloud build, GitHub Actions, Azure PipeLines
@@ -66,7 +66,8 @@
 
 ## 得意な事 
 
-- プロダクト開発
+- BtoB プロダクト開発
+    - https://qiita.com/nassy20/items/99ff3d7ac0fb00989aef
 - webアプリケーションAPI開発
 - クラウドインフラ構築(GCP, Azure)
     - Packer, Terraform, Docker を活用したインフラ構築
@@ -74,15 +75,17 @@
 - コマンドラインアプリ開発
 - 運用・監視設計
 - スケールアウトを考慮したシステム開発設計ができること
-- サーバーリソースを効率的に使う設計ができる
-- 得意言語(Python) 以外でも Docker コンテナを作ってツール活用できる(node, Java, Haskell)
+- 得意言語(Python) 以外でも Docker コンテナを作ってツール活用できる(Node.js, Java, Haskell)
 - 複雑な SQL、効率的な SQL が書ける
 - 担当者がいなくなり保守不能になったサービスを何度も立て直してきた
+- サーバーリソースを効率的に使う設計ができる
 
 ## 詳しくはないがやったことがあること
 
 - 受託開発での新規開発要件定義
 - フロントエンド開発
+     - StoryBook を用いたコンポーネント管理
+     - 人のコードを見ながらの実装
 - クラウドインフラ・アプリケーションのセキュリティ施策
 - DDD・クリーンアーキテクチャー
 - データサイエンティストに指示をもらいながら、データ加工・モデルの作成・モデルの評価・実験デザインができること
