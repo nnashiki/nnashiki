@@ -69,6 +69,7 @@
 - BtoB プロダクト開発
     - https://qiita.com/nassy20/items/99ff3d7ac0fb00989aef
 - webアプリケーションAPI開発
+- さっとツールを作ること
 - クラウドインフラ構築(GCP, Azure)
     - Packer, Terraform, Docker を活用したインフラ構築
 - 非機能要件設計
