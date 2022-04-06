@@ -35,6 +35,11 @@
 - 人に Python を教える時に作ったやつ
     - https://github.com/nnashiki/python_workshop
     - https://github.com/nnashiki/wordcloud-cli
+- 技術検証
+    - Ts 製 ORM の Prisma と Nest.js
+        - https://github.com/nnashiki/order_app_ts
+    - Go 製 ORM の SQLboiler
+        - https://github.com/nnashiki/gorder   
 
 # 技術
 
