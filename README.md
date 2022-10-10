@@ -13,9 +13,6 @@
    - https://qiita.com/nassy20/items/370c8163205b8351f636
    - https://pypi.org/user/nassy/
 
-![](slide-languages-tags.png)
-
-
 # おすすめrepo :rainbow:
     
 - 業務改善
