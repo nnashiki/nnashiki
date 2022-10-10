@@ -50,7 +50,6 @@
   - GCE, BigQuery, AppEngine, Cloud run, AutoMLTables, Composer(Airflow), Dataflow, モニタリング, pubsub, Vision
 - Azure
   - CognitiveSearch (全文検索エンジン), AppService, Functions, ARMTemplates, VM, Vnet, WAF
-- AWS(S3)
 - CI
   - CircleCI, Cloud build, GitHub Actions, Azure PipeLines
 - インフラ
