@@ -11,7 +11,7 @@
 - パブリッシュしたライブラリ
    - https://qiita.com/nassy20/items/370c8163205b8351f636
    - https://pypi.org/user/nassy/
-- 運営サービス
+- 作ったもの
    - https://media2txt.com/
    - https://www.youtube.com/channel/UCbtVcx4J0bA09uK8ls7EiJg
  
