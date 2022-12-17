@@ -8,7 +8,7 @@
 - 技術アウトプット
    - https://qiita.com/nassy20
    - https://zenn.dev/nassy
-- OSS Contibute
+- OSS Contribute
    - StarawBerry GraphQL
 - パブリッシュしたライブラリ
    - https://qiita.com/nassy20/items/370c8163205b8351f636
