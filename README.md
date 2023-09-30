@@ -10,8 +10,6 @@
    - https://zenn.dev/nassy
 - OSS Contribute 🤝
    - StarawBerry GraphQL
-       - 普通に使われている
-           - https://discord.com/channels/689806334337482765/1019704118744469505/threads/1071005865781501972
 - パブリッシュしたライブラリ 🚀
    - https://qiita.com/nassy20/items/370c8163205b8351f636
    - https://pypi.org/user/nassy/
