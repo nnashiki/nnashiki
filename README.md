@@ -1,4 +1,4 @@
-良いサービスを作りたいエンジニア。
+良いサービスを作りたいソフトウェアエンジニア。
 
 
 ### ざっくり紹介 👋
@@ -20,7 +20,10 @@
        - https://media2txt.com/
    - https://www.youtube.com/channel/UCbtVcx4J0bA09uK8ls7EiJg
    - マッスルGPT
-       - ![2023-09-27 21 49のイメージ](https://github.com/nnashiki/nnashiki/assets/14922132/9a393084-8cfa-4fc8-ba5d-c9994fd45bce)
+       - <img width="300" src="https://github.com/nnashiki/nnashiki/assets/14922132/9a393084-8cfa-4fc8-ba5d-c9994fd45bce">
+- 参考技術力
+    - <img width="300" src="https://github.com/nnashiki/nnashiki/assets/14922132/0e6d328e-ff02-4145-8930-5b9b8bfa7f3c">
+    - <img width="300" src="https://github.com/nnashiki/nnashiki/assets/14922132/7e7e584d-df67-4d8d-8268-20b644b1bcee">
 
 # Repos :rainbow:
     
