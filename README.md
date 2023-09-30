@@ -3,23 +3,26 @@
 
 ### ざっくり紹介 👋
 
-- 得意な順
+- 得意な順 😉
   - バックエンド開発 > クラウドインフラ > 自然言語アプリ開発 > webフロントエンド開発 > テーブルデータ分析
-- 技術アウトプット
+- 技術アウトプット 🏃
    - https://qiita.com/nassy20
    - https://zenn.dev/nassy
-- OSS Contribute
+- OSS Contribute 🤝
    - StarawBerry GraphQL
        - 普通に使われている
            - https://discord.com/channels/689806334337482765/1019704118744469505/threads/1071005865781501972
-- パブリッシュしたライブラリ
+- パブリッシュしたライブラリ 🚀
    - https://qiita.com/nassy20/items/370c8163205b8351f636
    - https://pypi.org/user/nassy/
-- 作ったもの
-   - https://media2txt.com/
+- 作ったもの 🔨
+   - 決済機能付きOCRサービス
+       - https://media2txt.com/
    - https://www.youtube.com/channel/UCbtVcx4J0bA09uK8ls7EiJg
- 
-# おすすめrepo :rainbow:
+   - マッスルGPT
+       - ![2023-09-27 21 49のイメージ](https://github.com/nnashiki/nnashiki/assets/14922132/9a393084-8cfa-4fc8-ba5d-c9994fd45bce)
+
+# Repos :rainbow:
     
 - 業務改善
     - backlog.com の課題登録 Webhook を用いて Azure Devps に登録する
@@ -47,29 +50,23 @@
         - https://github.com/nnashiki/gorder   
 
 # 技術
-
 ## 技術スタック(業務で開発で経験があるもの)
-- 言語フレームワーク
+- 言語やフレームワーク
   - Python3 (FastAPI, Django)
-  - TypeScript, js(ES6), Node.js, Vue.js
+  - TypeScript, Node.js, React.js
 - GCP
   - GCE, BigQuery, AppEngine, Cloud run, AutoMLTables, Composer(Airflow), Dataflow, モニタリング, pubsub, Vision
 - Azure
   - CognitiveSearch (全文検索エンジン), AppService, Functions, ARMTemplates, VM, Vnet, WAF
-- CI
-  - CircleCI, Cloud build, GitHub Actions, Azure PipeLines
-- インフラ
-  - Docker, Docker Compose, Packer, Terraform, Ansible
-- データ
-  - Airflow, Embulk
-- Jupyter
-- ドキュメンティング
-  - PlantUML, Marp
+- インフラ・CI
+  - Docker, Docker Compose, Packer, Terraform, Ansible, CircleCI, Cloud build, GitHub Actions, Azure PipeLines
+- データ・AI
+  - OpenAI, Airflow, Embulk
 
 ## 得意な事 
-
-- BtoB プロダクト開発
+- プロダクト開発設計
     - https://qiita.com/nassy20/items/99ff3d7ac0fb00989aef
+    - スケールを考慮したシステム開発設計ができること
 - webアプリケーションAPI開発
 - さっとツールを作ること
 - クラウドインフラ構築(GCP, Azure)
@@ -77,7 +74,6 @@
 - 非機能要件設計
 - コマンドラインアプリ開発
 - 運用・監視設計
-- スケールアウトを考慮したシステム開発設計ができること
 - 得意言語(Python) 以外でも Docker コンテナを作ってツール活用できる(Node.js, Java, Haskell)
 - 複雑な SQL、効率的な SQL が書ける
 - 担当者がいなくなり保守不能になったサービスを何度も立て直してきた
@@ -86,9 +82,6 @@
 ## 詳しくはないがやったことがあること
 
 - 受託開発での新規開発要件定義
-- フロントエンド開発
-     - StoryBook を用いたコンポーネント管理
-     - 人のコードを見ながらの実装
 - クラウドインフラ・アプリケーションのセキュリティ施策
 - OSI L7 レイヤーでのセキュリティ防御
   - https://qiita.com/nassy20/items/8b316726b4fbf1bf55b8
@@ -97,7 +90,7 @@
 
 ## 苦手なこと
 
-- 数学や統計知識はほぼないです
+- 数学や統計
 
 ## やった事が無いこと
 
