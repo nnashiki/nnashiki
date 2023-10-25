@@ -74,7 +74,6 @@
 - クラウドインフラ構築(GCP, Azure)
     - Packer, Terraform, Docker を活用したインフラ構築
 - 運用・監視設計
-- 得意言語(Python) 以外でも Docker コンテナを作ってツール活用できる(Node.js, Java, Haskell)
 - 新しい技術を触ること
 - ドキュメント解析
 
