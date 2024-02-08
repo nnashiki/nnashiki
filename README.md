@@ -21,7 +21,8 @@
        - <img width="300" src="https://github.com/nnashiki/nnashiki/assets/14922132/9a393084-8cfa-4fc8-ba5d-c9994fd45bce">
 - 参考技術力
     - <img width="300" src="https://github.com/nnashiki/nnashiki/assets/14922132/0e6d328e-ff02-4145-8930-5b9b8bfa7f3c">
-    - <img width="300" src="https://github.com/nnashiki/nnashiki/assets/14922132/7e7e584d-df67-4d8d-8268-20b644b1bcee">
+    - <img width="300" src="https://github.com/nnashiki/nnashiki/assets/14922132/aa795925-d8f6-4b2a-853c-f88ecfdf5f61">
+
 
 # Repos :rainbow:
     
