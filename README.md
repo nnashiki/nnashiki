@@ -18,7 +18,7 @@
        - https://media2txt.com/
    - https://www.youtube.com/channel/UCbtVcx4J0bA09uK8ls7EiJg
    - マッスルGPT
-       - <img width="300" src="https://github.com/nnashiki/nnashiki/assets/14922132/9a393084-8cfa-4fc8-ba5d-c9994fd45bce">
+       - https://qiita.com/nassy20/items/6477c6e1f2a0fec9b655
 - 参考技術力
     - <img width="300" src="https://github.com/nnashiki/nnashiki/assets/14922132/0e6d328e-ff02-4145-8930-5b9b8bfa7f3c">
     - <img width="300" src="https://github.com/nnashiki/nnashiki/assets/14922132/aa795925-d8f6-4b2a-853c-f88ecfdf5f61">
