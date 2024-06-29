@@ -23,34 +23,6 @@
     - <img width="300" src="https://github.com/nnashiki/nnashiki/assets/14922132/0e6d328e-ff02-4145-8930-5b9b8bfa7f3c">
     - <img width="300" src="https://github.com/nnashiki/nnashiki/assets/14922132/aa795925-d8f6-4b2a-853c-f88ecfdf5f61">
 
-
-# Repos :rainbow:
-    
-- 業務改善
-    - backlog.com の課題登録 Webhook を用いて Azure Devps に登録する
-        - https://github.com/nnashiki/bklg2devops-func
-    - yaml に記載したテストスイートの実行タスクを azure devops に起票できるツール
-        - https://github.com/nnashiki/yaml2devops-cli
-    - azure blob を regex 指定で操作するCLIツール
-        - https://github.com/nnashiki/azblob-regex-cli
-- Airflow を GCP で運用する構成
-    - https://github.com/nnashiki/airflow_on_gcp_freeze1
-- ドキュメントインテグレーション
-    - PlantUML の Docker コンテナ実行環境
-        - https://github.com/nnashiki/plantuml-docker
-    - Pandoc + eisvogel で日本語を含む Markdown から PDF 出力できる Dokcer コンテナ
-        - https://github.com/nnashiki/pandoc-eisvogel-ja
-- 人に Python を教える時に作ったやつ
-    - https://github.com/nnashiki/python_workshop
-    - https://github.com/nnashiki/wordcloud-cli
-- 技術検証
-    - Ts 製 ORM の Prisma と Nest.js
-        - https://github.com/nnashiki/order_app_ts
-    - Ts で npm packege 作成
-        - https://github.com/nnashiki/lib_ts_npm_helloworld
-    - Go 製 ORM の SQLboiler
-        - https://github.com/nnashiki/gorder   
-
 # 技術
 ## 技術スタック(業務で開発で経験があるもの)
 - 言語やフレームワーク
@@ -100,6 +72,8 @@
 - 大規模なアプリケーションサーバー開発
 
 # 業務経歴
+- 2013 - 2018
+  - 各種システム開発プロジェクト
 - 2019 - 2020
   - EC用のレコメンドエンジン開発プロジェクト
       - ML DevOpsエンジニアとして参画
@@ -110,6 +84,30 @@
   - SaaS 立ち上げの受託開発のバックエンドエンジニア
 - 2022 - 2023/09
   - 自社SaaS立ち上げ バックエンド
-- 2023/09
+- 2023/09 -
   - LLM Application 開発
+
+# Repos :rainbow:
+    
+- 業務改善
+    - backlog.com の課題登録 Webhook を用いて Azure Devps に登録する
+        - https://github.com/nnashiki/bklg2devops-func
+    - yaml に記載したテストスイートの実行タスクを azure devops に起票できるツール
+        - https://github.com/nnashiki/yaml2devops-cli
+    - azure blob を regex 指定で操作するCLIツール
+        - https://github.com/nnashiki/azblob-regex-cli
+- Airflow を GCP で運用する構成
+    - https://github.com/nnashiki/airflow_on_gcp_freeze1
+- ドキュメントインテグレーション
+    - PlantUML の Docker コンテナ実行環境
+        - https://github.com/nnashiki/plantuml-docker
+    - Pandoc + eisvogel で日本語を含む Markdown から PDF 出力できる Dokcer コンテナ
+        - https://github.com/nnashiki/pandoc-eisvogel-ja
+- 技術検証
+    - Ts 製 ORM の Prisma と Nest.js
+        - https://github.com/nnashiki/order_app_ts
+    - Ts で npm packege 作成
+        - https://github.com/nnashiki/lib_ts_npm_helloworld
+    - Go 製 ORM の SQLboiler
+        - https://github.com/nnashiki/gorder   
 
