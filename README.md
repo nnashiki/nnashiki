@@ -1,4 +1,4 @@
-良いサービスを作りたいソフトウェアエンジニア。
+新規事業サバイバーエンジニア。
 
 
 ### ざっくり紹介 👋
@@ -8,20 +8,32 @@
 - 技術アウトプット 🏃
    - https://qiita.com/nassy20
    - https://zenn.dev/nassy
+   - https://note.com/nassy20
 - OSS Contribute 🤝
    - StarawBerry GraphQL
 - パブリッシュしたライブラリ 🚀
    - https://qiita.com/nassy20/items/370c8163205b8351f636
    - https://pypi.org/user/nassy/
+   - [ファイルを転記したプロンプトを楽に作る VSCode 拡張を作った](https://zenn.dev/nassy/articles/b896a8e898991d)
+- 登壇履歴 🎤
+   - 2025/03 [〖増枠〗新時代、来たる。AI Code Agentとの協働](https://techplay.jp/event/974511)
+       - Clineを知ると世界が広がった（だが、俺はClaude for Desktopで行く
 - 作ったもの 🔨
+   - VoiceCamera
+       - https://apps.apple.com/jp/app/voicecamera/id6765976566
    - 決済機能付きOCRサービス
-       - https://media2txt.com/
-   - https://www.youtube.com/channel/UCbtVcx4J0bA09uK8ls7EiJg
+       - ~~https://media2txt.com/~~
    - マッスルGPT
        - https://qiita.com/nassy20/items/6477c6e1f2a0fec9b655
 - 参考技術力
     - <img width="300" src="https://github.com/nnashiki/nnashiki/assets/14922132/0e6d328e-ff02-4145-8930-5b9b8bfa7f3c">
     - <img width="300" src="https://github.com/nnashiki/nnashiki/assets/14922132/aa795925-d8f6-4b2a-853c-f88ecfdf5f61">
+
+# 大事にしていること
+
+- 開発期限を守ること
+- 展示会や顧客打合せへの参加
+- チーム事情に応じて得意でないことも行う
 
 # 技術
 ## 技術スタック(業務で開発で経験があるもの)
@@ -55,8 +67,12 @@
 - 検索システム開発
 - 非機能要件設計
 - 受託開発での新規開発要件定義
+- 開発チームリーダー・進捗管理
 - UIデザイン・フロント実装
 - クラウドインフラ・アプリケーションのセキュリティ施策
+- ISMS運用
+- SAMLやSCIMを用いた認証・プロビジョニング機能の提供・運用
+- 公開API機能の実装・運用・ドキュメント更新
 - OSI L7 レイヤーでのセキュリティ防御
   - https://qiita.com/nassy20/items/8b316726b4fbf1bf55b8
 - DDD・クリーンアーキテクチャー
@@ -69,7 +85,7 @@
 ## 経験が無いこと
 
 - ピープルマネジメント
-- 大規模なアプリケーションサーバー開発
+- 大規模開発
 
 # 業務経歴
 - 2013 - 2018
@@ -84,8 +100,10 @@
   - SaaS 立ち上げの受託開発のバックエンドエンジニア
 - 2022 - 2023/09
   - 自社SaaS立ち上げ バックエンド
-- 2023/09 -
+- 2023/09 - 2024/08
   - LLM Application 開発
+- 2024/09 -
+  - 組織向けAI SaaS開発
 
 # Repos :rainbow:
     
@@ -110,4 +128,3 @@
         - https://github.com/nnashiki/lib_ts_npm_helloworld
     - Go 製 ORM の SQLboiler
         - https://github.com/nnashiki/gorder   
-
